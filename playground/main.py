@@ -1,0 +1,30 @@
+MICHAEL = [3, 7, 11, 15, 19, 23, 27, 31, 35,
+           39, 43, 47, 51, 55, 59, 63, 67, 71, 75, 79]
+BUTTONS = [2, 6, 10, 14, 18, 22, 26, 30, 34,
+           38, 42, 46, 50, 54, 58, 62, 66, 70, 74, 78]
+DRAKE = [1, 5, 9, 13, 17, 21, 25, 29, 33, 37,
+         41, 45, 49, 53, 57, 61, 65, 69, 73, 77]
+TORNADO = [4, 8, 12, 16, 20, 24, 28, 32, 36,
+           40, 44, 48, 52, 56, 60, 64, 68, 72, 76, 80]
+
+# 13 DRAKE 
+# 33 DRAKE 
+# 34 BUTTONS 
+# 36 TORNADO
+# 37 DRAKE
+# 38 BUTTONS
+# 41 DRAKE 
+# 42 BUTTONS  
+# 45 DRAKE 
+# 46 BUTTONS
+# 49 DRAKE
+# 50 BUTTONS 
+# 52 TORNADO
+# 53 DRAKE
+# 61 DRAKE
+# 62 BUTTONS
+# 65 DRAKE
+# 69 DRAKE
+# 72 TORNADO
+# 77 DRAKE 
+# 80 TORNADO
